@@ -1,2 +1,2 @@
 # GoHTTPServ
-HTTP server written in Go
+Bare-bones HTTP 1.1 server built from the ground up in Go
